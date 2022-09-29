@@ -7,8 +7,11 @@ header{
     padding: 20px 0;
 }
 
-main{
-   
+.contacto-main{
+   width: 940px;
+   position: relative;
+   margin: 0 auto;
+  
 }
 
 
@@ -112,6 +115,7 @@ form input{
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+    
 }
 
 form label {
